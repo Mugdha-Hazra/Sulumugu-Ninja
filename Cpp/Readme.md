@@ -3,5 +3,8 @@
 **Day 9: DP** </br>
 1. 746. Min Cost Climbing Stairs  </br>
 2. 198. House Robber </br>
+3. 647. Palindromic Substrings </br>
+4. 213. House Robber II </br>
+
 
 
