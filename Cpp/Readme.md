@@ -5,8 +5,9 @@
 2. 198. House Robber </br>
 3. 647. Palindromic Substrings </br>
 4. 213. House Robber II </br>
-**Day 10: DP** </br>
+**Day 10: String** </br>
 1. 1143. Longest Common Subsequence  </br>
+2. 125. Valid Palindrome</br>
 
 
 
