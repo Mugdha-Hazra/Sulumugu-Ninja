@@ -8,6 +8,7 @@
 **Day 10: String** </br>
 1. 1143. Longest Common Subsequence  </br>
 2. 125. Valid Palindrome</br>
+3. 153. Find Minimum in Rotated Sorted Array</br>
 
 
 
