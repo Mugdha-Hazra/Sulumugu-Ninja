@@ -4,12 +4,12 @@ class Solution {
         int i=0, j=s.length()-1;
         while(i<j)
         {
-            if(!Character.isLetter(s.charAt(i)))
+            if(!Character.isLetterOrDigit(s.charAt(i)))
             {
                 i++;
                 continue;
             }
-            if(!Character.isLetter(s.charAt(j)))
+            if(!Character.isLetterOrDigit(s.charAt(j)))
             {
                 j--;
                 continue;
@@ -20,6 +20,5 @@ class Solution {
             j--;
         }
         return true;
-        
     }
 }
